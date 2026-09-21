@@ -1,1 +1,1 @@
-I have learned github
+I have learned github in a day
